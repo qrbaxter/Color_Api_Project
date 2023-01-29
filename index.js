@@ -1,3 +1,5 @@
+
+
 const colorSection = document.getElementById("color-section")
 function getColors() {
   
